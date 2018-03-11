@@ -1,0 +1,24 @@
+{
+  "name": "prismjs-language-srt",
+  "version": "1.0.1",
+  "description": "SRT subtitle syntax highlight for Prism.js",
+  "main": "prism.language.srt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfcherng/prismjs-language-srt.git"
+  },
+  "keywords": [
+    "prismjs",
+    "syntax",
+    "subtitle"
+  ],
+  "author": "Jack Cherng <jfcherng@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfcherng/prismjs-language-srt/issues"
+  },
+  "homepage": "https://github.com/jfcherng/prismjs-language-srt#readme"
+}

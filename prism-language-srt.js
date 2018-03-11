@@ -2,7 +2,7 @@
  * SRT subtitle syntax highlight for Prism.js
  *
  * @author Jack Cherng <jfcherng@gmail.com>
- * @version 1.0.1
+ * @version 1.0.2
  * @license MIT
  */
 Prism.languages.srt = {

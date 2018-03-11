@@ -1,6 +1,6 @@
 {
   "name": "prismjs-language-srt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "SRT subtitle syntax highlight for Prism.js",
   "main": "prism.language.srt.js",
   "scripts": {

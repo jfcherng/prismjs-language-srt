@@ -25,6 +25,14 @@ Prism.languages.srt = {
             'space': / /
         }
     },
+    'html-tag-opening': {
+        pattern: /<([biu]|font)( +[^>]*)>/i,
+        alias: 'comment'
+    },
+    'html-tag-closing': {
+        pattern: /<\/([biu]|font)>/i,
+        alias: 'comment'
+    },
     'ass-tag': {
         pattern: /\{@*\\[^}\r\n]+\}/,
         inside: {
